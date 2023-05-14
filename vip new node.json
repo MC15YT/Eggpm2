@@ -6,13 +6,13 @@
     },
     "exported_at": "2023-03-09T10:48:41+07:00",
     "name": "NODEJS PREMIUM - AMIRUL DEV",
-    "author": "amiruldev20@gmail.com",
+    "author": "mc15gg@gmail.com",
     "description": "egg nodejs pterodactyl nodejs v18, auto install speedtest, ffmpeg, imagemagick",
     "features": null,
     "docker_images": {
-        "NODEJS 14 NEW": "ghcr.io\/amiruldev20\/vip:14",
-        "NODEJS 16 NEW": "ghcr.io\/amiruldev20\/vip:16",
-        "NODEJS 18 NEW": "ghcr.io\/amiruldev20\/vip:18"
+        "NODEJS 14 NEW": "ghcr.io\/mc15yt\/eggpm2:14",
+        "NODEJS 16 NEW": "ghcr.io\/mc15yt\/eggpm2:16",
+        "NODEJS 18 NEW": "ghcr.io\/mc15yt\/eggpm2:18"
     },
     "file_denylist": [],
     "startup": "SILAHKAN START SERVER, JALANKAN SEMUA PERINTAH DI COMMAND !!",
